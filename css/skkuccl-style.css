@@ -383,13 +383,27 @@
 
   #home h1 {
     color: #ffffff;
-    padding-bottom: 10px;
-    margin-top: 0;
+    font-size: 40px;
+    font-weight: normal;
+    line-height: inherit;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin: 0;
   }
 
   #home h3 {
     color: #ffffff;
     font-size: 14px;
+    font-weight: normal;
+    line-height: inherit;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+  #home h4 {
+    color: #ffffff;
+    font-size: 12px;
     font-weight: normal;
     line-height: inherit;
     letter-spacing: 3px;

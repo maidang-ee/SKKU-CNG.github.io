@@ -606,6 +606,17 @@
       NEWS             
   -----------------------------------------*/
 
+  #news h4 {
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: inherit;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+
   #news, #news-detail {
     background: #f9f9f9;
   }

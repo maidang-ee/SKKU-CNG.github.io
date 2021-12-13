@@ -1,3 +1,3 @@
 # SKKU-CNG.github.io
-SKKU Communications and Networking Group
-Editot index.html
+SKKU Communications and Networks Group
+Editor index.html
